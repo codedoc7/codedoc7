@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <h2> Find me around the web 🌎: </h2><br>
 
-- Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/keshavrathod07" target="_blank">@LinkedIn</a><br>
+- Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/keshavrathod07/" target="_blank">@LinkedIn</a><br>
 - Follow me on Twitter-<a href="https://twitter.com/kris_keshav" target="_blank">@Twitter</a><br>
