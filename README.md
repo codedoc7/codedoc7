@@ -1,4 +1,4 @@
-### Hi there 👋
+Namaste 🙏
 
 <!--
 **codedoc7/codedoc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedoc7)](https://github.com/codedoc7/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codedoc7)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h2> Find me around the web 🌎: </h2><br>
+
+- Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/keshavrathod07" target="_blank">@LinkedIn</a><br>
+- Follow me on Twitter-<a href="https://twitter.com/kris_keshav" target="_blank">@Twitter</a><br>
