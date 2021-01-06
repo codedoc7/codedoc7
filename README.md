@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedoc7)](https://github.com/codedoc7/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codedoc7)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/codedoc7?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedoc7&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Keshav Rathod's github stats"/>
+</a>
+<a href="https://github.com/codedoc7?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedoc7&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+</a>
 
 
 <h2> Find me around the web 🌎: </h2><br>
