@@ -25,7 +25,17 @@ Here are some ideas to get you started:
 </a>
 
 
-<h2> Find me around the web 🌎: </h2><br>
+<h2> Lets Connect on Social Media: </h2><br>
 
-- Connect on Linkedin-<a href="https://www.linkedin.com/in/keshavrathod07/" target="_blank">@LinkedIn</a><br>
-- Follow me on Twitter-<a href="https://twitter.com/kris_keshav" target="_blank">@Twitter</a><br>
+ <a href="https://twitter.com/kris_keshav">
+  <img align="left" alt="Keshav Rathod's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/keshavrathod07/">
+  <img align="left" alt="Keshav Rathod's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/codedoc7">
+  <img align="left" alt="Keshav Rathod's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/keshav.rathod.7399">
+  <img align="left" alt="Keshav Rathod's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
