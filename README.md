@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 
 <h2> Lets Connect on Social Media: </h2><br>
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
