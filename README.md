@@ -33,8 +33,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Keshav Rathod's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/codedoc7">
-  <img align="left" alt="Keshav Rathod's Github" width="22px" src="https://www.iconfinder.com/icons/3244019/facebook_media_social_icon" />
+  <img align="left" alt="Keshav Rathod's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/keshav.rathod.7399">
   <img align="left" alt="Keshav Rathod's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
