@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 
 <h2> Lets Connect on Social Media: </h2><br>
+<html>
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -62,7 +64,11 @@ Here are some ideas to get you started:
   color: white;
 }
 </style>
+</head>
+<body>
 <a href="https://www.facebook.com/keshav.rathod.7399" class="fa fa-facebook"></a>
 <a href="https://twitter.com/kris_keshav" class="fa fa-twitter"></a>
 <a href="https://www.linkedin.com/in/keshavrathod07/" class="fa fa-linkedin"></a>
 <a href="https://github.com/codedoc7" class="fa fa-github"></a>
+</body>
+</html>
