@@ -26,50 +26,15 @@ Here are some ideas to get you started:
 
 
 <h2> Lets Connect on Social Media: </h2><br>
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
-
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-
-.fa-github {
-  background: #bb0000;
-  color: white;
-}
-</style>
-</head>
-<body>
-<a href="https://www.facebook.com/keshav.rathod.7399" class="fa fa-facebook"></a>
-<a href="https://twitter.com/kris_keshav" class="fa fa-twitter"></a>
-<a href="https://www.linkedin.com/in/keshavrathod07/" class="fa fa-linkedin"></a>
-<a href="https://github.com/codedoc7" class="fa fa-github"></a>
-</body>
-</html>
+<a href="https://twitter.com/kris_keshav">
+  <img align="left" alt="Keshav Rathod's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/keshavrathod07/">
+  <img align="left" alt="Keshav Rathod's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/codedoc7">
+  <img align="left" alt="Keshav Rathod's Github" width="22px" src="https://www.iconfinder.com/icons/3244019/facebook_media_social_icon" />
+</a>
+<a href="https://www.facebook.com/keshav.rathod.7399">
+  <img align="left" alt="Keshav Rathod's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
