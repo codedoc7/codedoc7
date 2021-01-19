@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedoc7&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codedoc7&theme=tokyonight_duo)](https://github.com/codedoc7/github-readme-streak-stats)
+
 
 <h2> Lets Connect on Social Media: </h2><br>
 <a href="https://twitter.com/kris_keshav">
