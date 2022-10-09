@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/kris_keshav">
   <img align="left" alt="Keshav Rathod's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/keshavrathod07/">
-  <img align="left" alt="Keshav Rathod's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/">
+ <img align="left" alt="Keshav Rathod's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://dev.to/codedoc7">
   <img align="left" alt="Keshav Rathod's Dev's" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png" />
